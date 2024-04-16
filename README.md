@@ -15,6 +15,7 @@ _Create a GitHub Action and use it in a workflow._
 
 <!--
   <<< Author notes: Step 5 >>>
+  Hi! It's me!!)
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
 -->
